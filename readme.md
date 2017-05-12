@@ -1,12 +1,12 @@
 ### mPDF Wrapper for Laravel 5
 
 ## Installation
-Begin by installing this package through Composer. Edit your project's `composer.json` file to require `kendu/l5-mpdf`.
+Begin by installing this package through Composer. Edit your project's `composer.json` file to require `compassites/laravel-mpdf`.
 
 ```json
 {
   "require": {
-       "kendu/l5-mpdf" : "dev-master"
+       "compassites/laravel-mpdf" : "master"
     }
 }
 ```
@@ -18,14 +18,14 @@ $ composer update
 
 Once this operation completes, the final step is to add the service provider. Open `app/config/app.php`, and add a new item to the providers array.
 ```php
-'Kendu\Mpdf\ServiceProvider',
+'Compassites\Mpdf\ServiceProvider',
 ```
 
 You can also register facade.
 
 
 ```php
-'PDF' => 'Kendu\Mpdf\Facades\Pdf',
+'PDF' => 'Compassites\Mpdf\Facades\Pdf',
 ```
 
 

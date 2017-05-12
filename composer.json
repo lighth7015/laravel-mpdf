@@ -1,12 +1,12 @@
 {
-    "name": "kendu/l5-mpdf",
-    "description": "mPDF wrapper for Laravel 5",
+    "name": "compassites/laravel-mpdf",
+    "description": "mPDF wrapper for Laravel 5.*",
     "version": "0.1",
     "keywords": ["laravel","mpdf", "pdf"],
     "authors": [
         {
-            "name": "Kendu",
-            "email": "info@kendu.si"
+            "name": "Bharathy",
+            "email": "psbharathy@gmail.com"
         }
     ],
     "require": {
@@ -15,8 +15,8 @@
     },
     "autoload": {
         "psr-0": {
-            "Kendu\\Mpdf": "src/"
+            "Compassites\\Mpdf": "src/"
         }
     },
-    "license": "Apache 2.0"
+    "license": "MIT license"
 }

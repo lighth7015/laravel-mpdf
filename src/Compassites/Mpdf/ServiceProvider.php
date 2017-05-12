@@ -1,5 +1,5 @@
 <?php
-namespace Kendu\Mpdf;
+namespace Compassites\Mpdf;
 
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
 use Config;

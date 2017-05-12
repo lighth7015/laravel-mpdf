@@ -1,11 +1,11 @@
 <?php
-namespace Kendu\Mpdf;
+namespace Compassites\Mpdf;
 
 /**
  * A Laravel wrapper for mPDF
  *
  * @package l4-mpdf
- * @author Kendu
+ * @author Compassites
  */
 class PdfWrapper {
 

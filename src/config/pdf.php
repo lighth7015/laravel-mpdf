@@ -14,7 +14,7 @@ return [
     'orientation'           => '',
 
     'title'                 => 'Laravel mpdf wrapper',
-    'author'                => 'Kendu',
+    'author'                => 'Compassites',
     'watermark'             => '',
     'showWatermark'         => false,
     'watermarkFont'         => 'DejaVuSansCondensed',
