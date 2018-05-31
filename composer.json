@@ -1,5 +1,5 @@
 {
-    "name": "compassites/laravel-mpdf",
+    "name": "lighth7015/laravel-mpdf",
     "description": "mPDF wrapper for Laravel 5.*",
     "version": "0.1",
     "keywords": ["laravel","mpdf", "pdf"],
